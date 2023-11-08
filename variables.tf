@@ -3,11 +3,11 @@ variable "region" {
   description = "AWS region"
 }
 
-variable "access_key" {
+variable "AWS_ACCESS_KEY_ID" {
   description = "access"
   
 }
-variable "secret_key" {
+variable "AWS_SECRET_KET_ID" {
   description = "secret"
   
 }
